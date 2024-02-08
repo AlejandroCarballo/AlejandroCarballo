@@ -1,7 +1,7 @@
 <h1 align="center">Hi fellas 👋, I'm Alejandro Carballo</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Globant](www.globant.com)
+- 🔭 I’m currently working on myWebsite
 
 - 🌱 I’m currently learning **Golang**
 
